@@ -24,7 +24,6 @@ This project aims to predict customer churn for a telecom company using machine 
   - [Dimensionality Reduction with PCA](#dimensionality-reduction-with-pca)
   - [Model Training and Evaluation](#model-training-and-evaluation)
   - [Identifying Important Predictors with Logistic Regression](#identifying-important-predictors-with-logistic-regression)
-- [Repository Structure](#repository-structure)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Results](#results)
